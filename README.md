@@ -8,4 +8,4 @@ More recently I have been working with Next.js as I wanted to learn React, yet s
 
 As for database technologies, I can't say I don't miss my joins between normalised data tables, but I'm a NoSQL fan right now. I do wish you could bit shift in MongoDB's aggregation pipeline, though. That's a gripe of mine, right now!
 
-Thank you for reading, and feel free to reach out to me on [Twitter](https://twitter.com/yandawl), should you feel any desire to.
+Thank you for reading and feel free to reach out to me on [Twitter](https://twitter.com/yandawl), or in my [Discord](http://discord.gg/38GdPqK) should you feel any desire to.
