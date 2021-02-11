@@ -6,6 +6,6 @@ Much of my experience is with ASP.NET MVC and C#, but I took a liking to Python 
 
 More recently I have been working with Next.js as I wanted to learn React, yet still be able to leverage the advantages of static generation for my web projects and I aim to have something tangible to show off soon, with a bit of Electron.js thrown in too, for fun.
 
-As for database technologies, I can't say I don't miss my joins between normalised data tables, but I'm a NoSQL fan right now. I do wish you could bit shift in MongoDB's aggregation pipeline, though. That's a gripe of mine, right now!
+As for database technologies, I can't say I don't miss my joins between normalised data tables, but I'm a NoSQL fan right now. I do wish you could bit shift in MongoDB's aggregation pipeline, though - a gripe of mine!
 
 Thank you for reading and feel free to reach out to me on [Twitter](https://twitter.com/yandawl), or in my [Discord](http://discord.gg/38GdPqK) should you feel any desire to.
